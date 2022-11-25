@@ -1,9 +1,8 @@
 ## I can't think of a title.
 
-- High School Student
+- Studying in Istanbul
+- Interested in learning about latest technologies
 - Mentor
-- Programming Enthusiast
-- Interested in learning new technologies as soon as they emerge
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiyadF296&theme=dark)
 
