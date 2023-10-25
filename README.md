@@ -4,7 +4,9 @@
 - Interested in learning about latest technologies
 - Mentor
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiyadF296&theme=dark)
+<!---
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiyadF296&theme=dark)
+-->
 
 ## Tools, IDE, and Technologies I Use
 ![](https://img.shields.io/badge/Code-Dart-Informational?logo=dart)
